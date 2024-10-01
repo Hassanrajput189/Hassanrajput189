@@ -8,7 +8,7 @@
 
 - 💬 Ask me about **C++, Java , HTML ,CSS , JavaScript**
 
-- 📫 How to reach me **hassanrajput189@gmail.com**
+- 📫 How to reach me **https://linktr.ee/hassanrajput189**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
