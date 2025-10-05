@@ -10,7 +10,7 @@
   <a href="https://www.linkedin.com/in/muhammad-hassan-rajput/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white&style=for-the-badge" alt="LinkedIn"/>
   </a>
-  <a href="[mailto:hassanrajput189@gmail.com](https://mail.google.com/mail/u/0/#inbox?compose=GTvVlcRzDsTBlFBZTNTwQFVpxjFWKlbCclTglGJssFcjQZjKTcZrBQkxnNnmrZpQlWQLbNrWmqjvg)" target = "_blank">
+  <a href="https://mail.google.com/mail/u/0/#inbox?compose=GTvVlcRzDsTBlFBZTNTwQFVpxjFWKlbCclTglGJssFcjQZjKTcZrBQkxnNnmrZpQlWQLbNrWmqjvg" target = "_blank">
     <img src="https://img.shields.io/badge/Gmail-D14836?logo=gmail&logoColor=white&style=for-the-badge" alt="Gmail"/>
   </a>
   <a href="https://hassan-rajput-portfolio.vercel.app/" target="_blank">
