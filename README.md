@@ -10,9 +10,13 @@
   <a href="https://www.linkedin.com/in/muhammad-hassan-rajput/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white&style=for-the-badge" alt="LinkedIn"/>
   </a>
-  <a href="mailto:hassanrajput189@gmail.com" >
+  <a href="[mailto:hassanrajput189@gmail.com](https://mail.google.com/mail/u/0/#inbox?compose=GTvVlcRzDsTBlFBZTNTwQFVpxjFWKlbCclTglGJssFcjQZjKTcZrBQkxnNnmrZpQlWQLbNrWmqjvg)" target = "_blank">
     <img src="https://img.shields.io/badge/Gmail-D14836?logo=gmail&logoColor=white&style=for-the-badge" alt="Gmail"/>
   </a>
+  <a href="https://hassan-rajput-portfolio.vercel.app/" target="_blank">
+  <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio"/>
+</a>
+
 </p>
 
 ---
@@ -21,7 +25,6 @@
 - 💻 I’m skilled in **C++, Java, MERN, Next.js, and Flutter**  
 - 🌱 Currently exploring **AI & ML**  
 - 🧠 Passionate about **building impactful, scalable web apps**  
-- 📫 Visit my portfolio: **[hassan-rajput-portfolio.vercel.app](https://hassan-rajput-portfolio.vercel.app/)**  
 - ⚡ Fun fact: I love explore new technologies every day and night 🎯  
 
 ---
