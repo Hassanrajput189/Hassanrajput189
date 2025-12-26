@@ -1,7 +1,8 @@
 <h1 align="center">Hi 👋, I'm Hassan Rajput</h1>
 <h3 align="center">A strategic, hands-on learner who thinks in systems, values depth, and wants to build skills that actually matter in the real industry. 🚀</h3>
 
-<img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/74038190/212746035-d5c61762-973c-44c0-aec7-887f3b7690e3.gif">
+ <img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/74038190/212746035-d5c61762-973c-44c0-aec7-887f3b7690e3.gif"> 
+
 
 ---
 
@@ -13,10 +14,15 @@
   <a href="https://hassan-rajput-portfolio.vercel.app/" target="_blank">
   <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio"/>
 </a>
+  <a href="https://hassan-rajput-portfolio.vercel.app/" target="_blank">
+  <img src="https://komarev.com/ghpvc/?username=hassanrajput189&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
+</a>
+
+
 
 </p>
 
----
+
 
 ### 💬 **About Me**
 - 💻 I’m skilled in **C++, Java, MERN, Next.js, and Flutter**  
@@ -49,24 +55,4 @@
 </p>
 
 ---
-
-### 📊 **GitHub Stats**
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=hassanrajput189&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="Top Languages" height="150"/>
-  <img src="https://github-readme-stats.vercel.app/api?username=hassanrajput189&show_icons=true&locale=en&theme=tokyonight" alt="GitHub Stats" height="150"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=hassanrajput189&theme=tokyonight" alt="GitHub Streak" height="150"/>
-</p>
-
----
-
-### 🏆 **Achievements**
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=hassanrajput189&theme=tokyonight&margin-w=10&no-frame=true" alt="GitHub Trophies" />
-</p>
-
----
-
 <p align="center">⭐️ Crafted with passion by <b>Hassan Rajput</b></p>
