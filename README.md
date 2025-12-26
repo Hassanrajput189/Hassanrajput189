@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Hassan Rajput</h1>
-<h3 align="center">A passionate Software Engineering undergraduate eager to learn, build, and explore new technologies 🚀</h3>
+<h3 align="center">A strategic, hands-on learner who thinks in systems, values depth, and wants to build skills that actually matter in the real industry. 🚀</h3>
 
 <img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/74038190/212746035-d5c61762-973c-44c0-aec7-887f3b7690e3.gif">
 
