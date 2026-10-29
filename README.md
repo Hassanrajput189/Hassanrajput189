@@ -24,7 +24,6 @@
 ### 💬 **About Me**
 - 🎓 Student at **Mehran University of Engineering and Technology (MUET)**
 - 🧠 Working across **Machine Learning / Computer Vision** and **Full-Stack Web Development**
-- 🩻 Final year project: **medical image analysis**, knee osteoarthritis grading with deep learning
 - 🌱 Passionate about **building impactful, scalable web apps** and AI-powered products
 - ⚡ Fun fact: I love exploring new technologies every day and night 🎯
 
@@ -81,14 +80,5 @@
 
 ---
 
-### 💼 **Experience**
-- **Zetsol Tech** — Aug – Sep 2026
-- **YoungDev** — Intern (1 month)
-- **IEEE CS Society** — Web Director (4 months)
 
-### 🎓 **Education**
-- **Mehran University of Engineering and Technology** — CGPA 3.2
-- **Excellence College for Boys** (XII) — 87.8%, 2022
-
----
 <p align="center">⭐️ Crafted with passion by <b>Hassan Rajput</b></p>
